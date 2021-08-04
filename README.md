@@ -1,1 +1,2 @@
 # imgbed
+image cdn
